@@ -3,11 +3,11 @@
 
 ## Dataset Description
 This datasets is related to red variants of the Portuguese "Vinho Verde" wine.The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
+
 The complexity arises due to the fact that the dataset has fewer samples, & is highly imbalanced.
 
-This data frame contains the following columns:
-
-# Input variables :
+## This data frame contains the following columns:
+### Input variables :
 1 - fixed acidity.
 2 - volatile acidity.
 3 - citric acid.
@@ -19,10 +19,10 @@ This data frame contains the following columns:
 9 - pH.
 10 - sulphates.
 11 - alcohol.
-# Output variable :
+### Output variable :
 12 - quality (score between 0 and 10)
 
-# Objective:
+## Objective:
 Understand the Dataset & cleanup.
 Build classification or regression models to predict the wine quality.
 Also fine-tune the hyperparameters & compare the evaluation metrics of various algorithms.
