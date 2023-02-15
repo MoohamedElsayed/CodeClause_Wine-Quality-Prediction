@@ -23,6 +23,6 @@ The complexity arises due to the fact that the dataset has fewer samples, & is h
 12 - quality (score between 0 and 10)
 
 ## Objective:
-Understand the Dataset & cleanup.
-Build classification or regression models to predict the wine quality.
+Understand the Dataset & cleanup.  
+Build classification or regression models to predict the wine quality.  
 Also fine-tune the hyperparameters & compare the evaluation metrics of various algorithms.
